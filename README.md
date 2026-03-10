@@ -8,6 +8,8 @@ A Retrieval-Augmented Generation (RAG) system for querying **U.S. copyright law 
 - LLM answers with relevant legal context
 - Fully local preprocessing
 
+- The repository does not include the scraped chapters as it already has the chunked and embedded sections
+
 ## Installation
 
 ```bash
